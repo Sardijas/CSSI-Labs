@@ -1,3 +1,11 @@
+#card {
+    height: 25%;
+}
+
+#message {
+    text-align: center;
+}
+
 * {
   font-family: 'Nunito Sans', sans-serif;
 }
@@ -29,3 +37,4 @@ input {
 a {
   font-weight: 600;
 }
+
